@@ -12,3 +12,7 @@ repositories:
     external_collaborators:
       tegioz: admin
     visibility: private
+  - name: tests
+    external-collaborators:
+      cynthia-sg: write
+    visibility: public
