@@ -5,6 +5,11 @@ teams:
       - cynthia-sg
     members:
       - Clomonitor1
+  - name: team2
+    maintainers:
+      - cynthia-sg
+    members:
+      - tegioz
 repositories:
   - name: .clowarden
     teams:
