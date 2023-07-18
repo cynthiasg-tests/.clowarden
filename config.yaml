@@ -15,4 +15,4 @@ repositories:
   - name: tests
     external-collaborators:
       cynthia-sg: write
-    visibility: public
+    visibility: private
