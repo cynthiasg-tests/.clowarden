@@ -3,7 +3,8 @@ teams:
   - name: team1
     maintainers:
       - cynthia-sg
-    members: []
+    members:
+      - Clomonitor1
 repositories:
   - name: .clowarden
     teams:
