@@ -1,0 +1,13 @@
+organization: tegioz-tests
+teams:
+  - name: team1
+    maintainers:
+      - cynthia-sg
+    members: []
+repositories:
+  - name: .clowarden
+    teams:
+      team1: admin
+    external_collaborators:
+      tegioz: admin
+    visibility: private
