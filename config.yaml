@@ -21,3 +21,8 @@ repositories:
     external-collaborators:
       cynthia-sg: write
     visibility: private
+  - name: tests-2
+    external-collaborators:
+      cynthia-sg: admin
+      tegioz: read
+    visibility: private
