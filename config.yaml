@@ -21,6 +21,7 @@ repositories:
       team1: admin
     external_collaborators:
       tegioz: admin
+      Clomonitor8: write
     visibility: public
   - name: tests
     external-collaborators:
