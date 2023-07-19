@@ -21,8 +21,8 @@ repositories:
       team1: admin
     external_collaborators:
       tegioz: admin
-    visibility: private
+    visibility: public
   - name: tests
     external-collaborators:
       cynthia-sg: write
-    visibility: public
+    visibility: private
