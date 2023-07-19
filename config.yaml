@@ -5,6 +5,7 @@ teams:
       - cynthia-sg
     members:
       - Clomonitor1
+      - Clomonitor2
   - name: team2
     maintainers:
       - cynthia-sg
@@ -24,9 +25,4 @@ repositories:
   - name: tests
     external-collaborators:
       cynthia-sg: write
-    visibility: private
-  - name: tests-2
-    external-collaborators:
-      cynthia-sg: admin
-      tegioz: read
     visibility: private
