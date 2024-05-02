@@ -26,4 +26,5 @@ repositories:
   - name: tests
     external-collaborators:
       cynthia-sg: write
+      cynth5: read
     visibility: private
