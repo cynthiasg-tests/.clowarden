@@ -6,6 +6,7 @@ teams:
     members:
       - Clomonitor1
       - Clomonitor2
+      - Clomonitor3
   - name: team2
     maintainers:
       - cynthia-sg
